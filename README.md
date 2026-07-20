@@ -2,9 +2,11 @@
 
 E-commerce demo for beauty products imported from the USA.
 
+**Live site:** [https://lcarlini.github.io/GraziImports/](https://lcarlini.github.io/GraziImports/)
+
 ## Run
 
-Open `index.html` in a browser (double-click or live server). No build step required.
+Open [`index.html`](./index.html) in a browser (double-click or live server), or visit the [GitHub Pages site](https://lcarlini.github.io/GraziImports/). No build step required.
 
 ## What’s included
 
